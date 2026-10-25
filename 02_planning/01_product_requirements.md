@@ -12,7 +12,7 @@ Translate the problem statement into requirements. Keep answers brief.
 Phone Customer
 
 **What problem will it help them solve?**
-Going Over Data Plan
+Going Over Data Plan.
 
 ## Requirements
 
